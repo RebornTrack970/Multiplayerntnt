@@ -1,0 +1,7 @@
+name: "multiplayerntnt"
+displayName: "Multiplayern'tn't"
+author: "[yellow]RTOmega"
+description: "Reverts Multiplayernt"
+version: "1.0"
+minGameVersion: 122
+hidden: true
