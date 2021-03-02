@@ -1,7 +1,7 @@
 name: "multiplayerntnt"
 displayName: "Multiplayern'tn't"
 author: "[yellow]RTOmega"
-description: "Reverts Multiplayernt"
+description: "A Mindustry Mod that Reverts Multiplayernt"
 version: "1.0"
 minGameVersion: 122
 hidden: true
